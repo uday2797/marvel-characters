@@ -1,9 +1,14 @@
 {
-    "_experiment_id": "975353387955396140",
+    "_experiment_id": "3997068796441299",
     "_name": "/Shared/marvel-demo",
-    "_artifact_location": "file:///c:/Users/uday_nagisetti/Desktop/uday/practice/marvel-characters/notebooks/mlruns/975353387955396140",
+    "_artifact_location": "dbfs:/databricks/mlflow-tracking/3997068796441299",
     "_lifecycle_stage": "active",
-    "_tags": {},
-    "_creation_time": 1761579039529,
-    "_last_update_time": 1761579039529
+    "_tags": {
+        "mlflow.ownerId": "74851262673049",
+        "mlflow.experiment.sourceName": "/Shared/marvel-demo",
+        "mlflow.ownerEmail": "udays2797@gmail.com",
+        "mlflow.experimentType": "MLFLOW_EXPERIMENT"
+    },
+    "_creation_time": 1763705777117,
+    "_last_update_time": 1763705777117
 }

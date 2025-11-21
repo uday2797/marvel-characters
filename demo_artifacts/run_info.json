@@ -1,12 +1,12 @@
 {
     "info": {
-        "artifact_uri": "dbfs:/databricks/mlflow-tracking/165395361821466/a0803fd20a994111ad92de1acf6d3b1a/artifacts",
-        "end_time": 1761579157411,
-        "experiment_id": "165395361821466",
+        "artifact_uri": "dbfs:/databricks/mlflow-tracking/3997068796441299/68afde1fda684070842aa99150fa3b89/artifacts",
+        "end_time": 1763706051461,
+        "experiment_id": "3997068796441299",
         "lifecycle_stage": "active",
-        "run_id": "a0803fd20a994111ad92de1acf6d3b1a",
+        "run_id": "68afde1fda684070842aa99150fa3b89",
         "run_name": "marvel-demo-run",
-        "start_time": 1761579155231,
+        "start_time": 1763705955405,
         "status": "FINISHED",
         "user_id": ""
     },
@@ -20,7 +20,7 @@
         },
         "tags": {
             "git_sha": "1234567890abcd",
-            "mlflow.databricks.cluster.id": "1027-152949-th31iiip-v2n",
+            "mlflow.databricks.cluster.id": "1121-060652-xphey0rr-v2n",
             "mlflow.databricks.cluster.info": "{\"cluster_name\":\"\",\"spark_version\":\"17.2.x-photon-scala2.13\",\"autotermination_minutes\":120}",
             "mlflow.databricks.cluster.libraries": "{\"installable\":[],\"redacted\":[]}",
             "mlflow.note.content": "marvel character prediction demo run",
@@ -29,7 +29,7 @@
             "mlflow.source.name": "c:\\Users\\uday_nagisetti\\Desktop\\uday\\practice\\marvel-characters\\.venv\\Lib\\site-packages\\ipykernel_launcher.py",
             "mlflow.source.type": "LOCAL",
             "mlflow.user": "udays2797@gmail.com",
-            "mlflow.artifacts.spn": "/WorkspaceInternal/Mlflow/Artifacts/165395361821466/Runs/a0803fd20a994111ad92de1acf6d3b1a/"
+            "mlflow.artifacts.spn": "/WorkspaceInternal/Mlflow/Artifacts/3997068796441299/Runs/68afde1fda684070842aa99150fa3b89/"
         }
     },
     "inputs": {
